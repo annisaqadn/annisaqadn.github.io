@@ -1,0 +1,10 @@
+body {
+    background-image: url(APOLAROiD20.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1 {
+  color: maroon;
+  font-size: 30px;
+  text-align: center;
+}
